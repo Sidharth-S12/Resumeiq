@@ -2,12 +2,6 @@
 
 > Your complete AI-powered career partner — from resume building to interview prep, all in one place. Built with React, Firebase & Groq AI.
 
-![ResumeIQ Banner](https://img.shields.io/badge/ResumeIQ-AI%20Career%20Platform-blueviolet?style=for-the-badge)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Groq AI](https://img.shields.io/badge/Groq-AI%20Powered-F55036?style=for-the-badge)
-![Free](https://img.shields.io/badge/100%25-Free-4ade80?style=for-the-badge)
-
 ---
 
 ## 🚀 Live Demo
