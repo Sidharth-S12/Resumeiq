@@ -363,7 +363,7 @@ export default function Landing({ user }) {
               onMouseEnter={e => e.currentTarget.style.transform = 'translateY(-2px)'}
               onMouseLeave={e => e.currentTarget.style.transform = 'translateY(0)'}
             >
-              ✦ {user ? 'Go to App' : 'Start for Free — No Sign Up Needed'}
+              ✦ {user ? 'Go to App' : 'Start for Free '}
             </button>
           </Link>
         </div>
