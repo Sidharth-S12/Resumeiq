@@ -67,10 +67,10 @@ function AppContent({ user, handleLogin, handleLogout }) {
           <h2 style={{ fontSize: '1.4rem', fontWeight: 800, marginBottom: 12 }}>Best on Desktop</h2>
           <p style={{ color: 'var(--muted)', lineHeight: 1.7, marginBottom: 24, fontSize: '0.95rem' }}>
             ResumeIQ is optimized for desktop use.<br/>
-            Please open this site on your laptop or PC!
+          
           </p>
           <div style={{ padding: '12px 24px', borderRadius: 12, background: 'linear-gradient(135deg, var(--purple), var(--pink))', color: '#fff', fontWeight: 700, fontSize: '0.9rem' }}>
-            💻 Open on Desktop
+            💻 Open on Desktop site
           </div>
           <p style={{ color: 'var(--muted)', fontSize: '0.78rem', marginTop: 16 }}>Mobile version coming soon! 🚀</p>
         </div>
