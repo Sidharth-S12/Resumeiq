@@ -1,0 +1,31 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --pink:    #ff4ecd;
+  --orange:  #ff8c42;
+  --yellow:  #ffe14d;
+  --cyan:    #3bf0e4;
+  --blue:    #4e8cff;
+  --purple:  #9b5dff;
+  --bg:      #0d0d14;
+  --surface: #16161f;
+  --surface2:#1e1e2e;
+  --border:  rgba(255,255,255,0.08);
+  --text:    #f0f0ff;
+  --muted:   #7878a0;
+}
+
+body {
+  font-family: 'Cabinet Grotesk', 'DM Sans', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+button { cursor: pointer; font-family: inherit; }
+input  { font-family: inherit; }
